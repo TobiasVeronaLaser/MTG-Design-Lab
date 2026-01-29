@@ -1,0 +1,34 @@
+# =========================
+# OS (from GitHub templates)
+# =========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+
+# =========================
+# VS Code (adapted)
+# =========================
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# =========================
+# Temporary files
+# =========================
+*.log
+*.tmp
+*.bak
+
+# =========================
+# Generated outputs
+# =========================
+assets/exports/
+assets/card_mockups/png/
+
+# =========================
+# Tool artifacts
+# =========================
+.ipynb_checkpoints/
